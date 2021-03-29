@@ -15,8 +15,11 @@ bot = telegram.Bot(config["telegram-token"])
 changed = False
 
 for site in websites:
-	response = requests.get(site["url"])
-	content = response.text.encode("utf-8")
+	try:
+		response = requests.get(site["url"])
+		content = response.text.encode("utf-8")
+	except:
+		continue
 
 	digest = hashlib.sha512(content).digest()
 	digest = base64.b64encode(digest).decode("ascii")
