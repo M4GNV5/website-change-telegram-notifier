@@ -2,16 +2,21 @@
     {
         "name": "McDonalds Frontpage",
         "url": "https://www.mcdonalds.com/de/de-de.html",
-        "hash": "xbc7euWJByPLjDM5v7uxDptYqpYzJnHXlrMW4PCdQMHG4kWkISG/MrEf8GCHAj9dwRiUDVbEbxOFXn1iQixbmA=="
-    },
-    {
-        "name": "McDonalds Campaigns",
-        "url": "https://www.mcdonalds.com/services/mcd/localGallerySlide.json?coopID=undefined&carouselPath=/content/de/de-de/jcr:content/par/imagegallery_940870317",
-        "hash": "jAyU0hQGxOiT8wDhuwdp3BhgIjZ4lYqwLSWK1wdfqegCp5WBYL4Heh1+XXiKg1Y2t3cTXQu/WgJ8muK/TC3p+A=="
+        "hash": "dqvMQwj0nzkHLaHWnA80vFZ6wD75TmFgQeVs0TRyq+pjDsxO0GNdWAOSf2N+707WUKGIgqmlsCwzC2e5Wa/FjQ=="
     },
     {
         "name": "Bauleitplanung Pfaffenhofen",
         "url": "https://pfaffenhofen.de/artikel/bauleitplanung/",
-        "hash": "xu/zfJwMYgYXLHMethFTlM/4xznjW5azfVIVC2bpkfusrbQrlr1OMpWv/cIPNxX/VcEXclNjEDnu0tx5HEnLDA=="
+        "hash": "YE8cgUkB/TCndQ2KwgrG1SeJu3Ja2kDI5Y+ov2MvyfiNu3MbyPHpHhMqovdOtNe8mDnNcx+2Xh+JhiG5XWPTpQ=="
+    },
+    {
+        "name": "Tiny Living #1",
+        "url": "https://www.baupilot.com/pfaffenhofen-a-d-ilm/parzelle-1-beethovenstrasse-fuer-tiny-house-bebauu",
+        "hash": "1HvOBtU6SUW8dvHyQLQlWPROVZHU7lafYcwpzUjTokU/hx5z4w2EoBigwZOKMFbNEWnFkFtBLfaWogCIykmqlQ=="
+    },
+    {
+        "name": "Tiny Living #2",
+        "url": "https://www.baupilot.com/pfaffenhofen-a-d-ilm/parzelle-2-beethovenstrasse-fuer-tiny-house-bebauu",
+        "hash": "iPnZ727Jie+MBkvAsvh/fn8t5yZifTHauMK3eo6a+AOdeCvHQMlAkIfm2ZbJMaHn0rM18fs11I/dYkP2Jfktgg=="
     }
 ]
