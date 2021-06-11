@@ -17,6 +17,7 @@ changed = False
 for site in websites:
 	try:
 		response = requests.get(site["url"])
+		response.raise_for_status()
 		content = response.text.encode("utf-8")
 	except:
 		continue
