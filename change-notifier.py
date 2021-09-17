@@ -3,8 +3,8 @@
 import json
 import base64
 import hashlib
-import requests
 import telegram
+import imgkit
 
 with open("config.json", "r") as fd:
 	config = json.load(fd)
@@ -16,9 +16,7 @@ changed = False
 
 for site in websites:
 	try:
-		response = requests.get(site["url"])
-		response.raise_for_status()
-		content = response.text.encode("utf-8")
+		content = imgkit.from_url(site["url"], False)
 	except:
 		continue
 
